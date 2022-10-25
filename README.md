@@ -1,1 +1,1 @@
-https://daragan-media.com/react/react-movies/ - демо
+http://daragan-media.com/react/react-movies/ - демо
